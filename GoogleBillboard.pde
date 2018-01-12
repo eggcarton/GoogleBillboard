@@ -14,7 +14,6 @@ public void setup()
       System.out.println(dNum+" is the first 10 digit prime in e");
       break;
     }
-    if (
   }
   
 }  
